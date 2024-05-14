@@ -1,0 +1,7 @@
+names:
+- RCA
+- catherter
+nc: 2
+test: validation/images
+train: train/images
+val: validation/images
